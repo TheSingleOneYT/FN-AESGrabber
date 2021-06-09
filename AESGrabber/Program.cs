@@ -7,7 +7,7 @@ namespace AESGrabber
 {
     class Program
     {
-        const string aesurl = @"https://benbotfn.tk/api/v1/aes";
+        const string aesurl = @"https://benbot.app/api/v1/aes";
         static void Main(string[] args)
         {
             var wc = new WebClient();
